@@ -1,1 +1,1 @@
-# Pharmacy--sale--analysis-
+pharmacy-sale-analysis
