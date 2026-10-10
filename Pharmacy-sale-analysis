@@ -1,8 +1,0 @@
-Pharmacy-sale-analysis 
-# Pharmacy Sales Analysis - Task 3
-Objective: Analyze pharmacy sales to find top medicines, monthly growth, branded vs generic.
-Dataset: pharmacy_sales.csv - 20 records, DATE, MEDICINE, TYPE, QUANTITY, SALE_AMOUNT, MONTH
-Visualizations: Top medicines bar, Monthly sales line, Branded vs Generic pie, Revenue bar
-Insights: Paracetamol top by quantity, Branded higher revenue, Growth Jan-Jul 2024
-Tools: Python, Pandas, Matplotlib
-Run: pip install pandas matplotlib and python sales_analysis.py
