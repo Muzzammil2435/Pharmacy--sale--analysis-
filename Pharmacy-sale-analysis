@@ -1,4 +1,4 @@
-pharmacy-sale-analysis
+Pharmacy-sale-analysis 
 # Pharmacy Sales Analysis - Task 3
 Objective: Analyze pharmacy sales to find top medicines, monthly growth, branded vs generic.
 Dataset: pharmacy_sales.csv - 20 records, DATE, MEDICINE, TYPE, QUANTITY, SALE_AMOUNT, MONTH
